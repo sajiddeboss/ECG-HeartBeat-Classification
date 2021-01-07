@@ -13,7 +13,7 @@ Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
 
 Dataset link : https://www.kaggle.com/shayanfazeli/heartbeat
 
-We used this dataset to classify the heartbeat into 5 classes. An cnn architecture is devised to train on this dataset and an validation accuracy of 98.26% is obtained.
+We used this dataset to classify the heartbeat into 5 classes. A cnn architecture is devised to train on this dataset and an validation accuracy of 98.26% is obtained.
 
 Acknowledgements:
 Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classification: A Deep Transferable Representation." arXiv preprint arXiv:1805.00794 (2018).
